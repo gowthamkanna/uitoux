@@ -1,0 +1,155 @@
+[
+    {
+        "name": "Moto Oil Level 5",
+        "skuId": "A78963",
+        "price": 245.67,
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/product-1.jpeg"
+            },
+            {
+                "image": "/images/products/product-2.jpeg"
+            }
+        ],
+        "category": "Lubricants",
+        "stock": 5,
+        "offers": 10,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+            "user": "6583df395776ea0f81cb4d8d",
+            "rating": 4,
+            "comment": "Product is good"
+        },
+        {
+            "user": "6583dc09109792b57270945a",
+            "rating": 4,
+            "comment": "best product ever"
+        }
+    ]
+    },
+    {
+        "name": "Brandix Engine Block Z4",
+        "skuId": "A78964",
+        "price": 150.32,
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/product-2.jpeg"
+            }
+        ],
+        "category": "Hand Tools",
+        "stock": 9,
+        "offers": 0,
+        "numOfReviews": 1,
+        "reviews": [{
+            "user": "6583df395776ea0f81cb4d8d",
+            "rating": 4,
+            "comment": "ok good"
+        }]
+    },
+    {
+        "name": "Brandix Clutch Discs Z175",
+        "skuId": "C78963",
+        "price": 440.57,
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/product-3.jpeg"
+            }
+        ],
+        "category": "Power Tools",
+        "stock": 9,
+        "offers": 0,
+        "numOfReviews": 12,
+        "reviews": [{
+            "user": "6583df395776ea0f81cb4d8d",
+            "rating": 2,
+            "comment": "not bad"
+        }]
+    },
+    {
+        "name": "Fantastic 12-Stroke Engine With A Power of 1991 hp",
+        "skuId": "B28963",
+        "price": 250.45,
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/product-6.jpeg"
+          }
+        ],
+        "category": "Plumbing",
+        "stock": 9,
+        "offers": 0,
+        "numOfReviews": 12,
+        "reviews": [{
+            "user": "6583df395776ea0f81cb4d8d",
+            "rating": 4,
+            "comment": "not issue"
+        }]
+      },
+      {
+        "name": "Brandix Mannual Fiva Speed Gearbox",
+        "skuId": "A189633",
+        "price": 767.32,
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/product-7.jpeg"
+          }
+        ],
+        "category": "Power Tools",
+        "stock": 9,
+        "offers": 0,
+        "numOfReviews": 12,
+        "reviews": [{
+            "user": "6583df395776ea0f81cb4d8d",
+            "rating": 5,
+            "comment": "Product is good"
+        }]
+    },
+    {
+        "name": "Set of Fout 19 Inch Spiked Tires",
+        "skuId": "F58963",
+        "price": 15.46,
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/product-4.jpeg"
+            }
+        ],
+        "category": "Power Tools",
+        "stock": 4,
+        "offers": 0,
+        "numOfReviews": 20,
+        "reviews": [],
+        "isFeature": true
+    },
+    {
+        "name": "Brandix Engine Block Z5",
+        "skuId": "N89733",
+        "price": 10.12,
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/product-5.jpeg"
+            }
+        ],
+        "category": "Engines",
+        "stock": 6,
+        "offers": 0,
+        "numOfReviews": 9,
+        "reviews": [],
+        "isFeature": true,
+        "isHot": true
+
+    }
+]
