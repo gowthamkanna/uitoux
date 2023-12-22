@@ -31,10 +31,10 @@ exports.newProduct = catchAsyncError(async (req, res, next)=>{
 
 //Get Products - /api/v1/products
 exports.getProducts = catchAsyncError(async (req, res, next)=>{
-    let resPerPage = 3;
-    if(req.query["isFeature"] !== undefined){
-        resPerPage = 5;
-    }
+    let resPerPage = 5;
+    // if(req.query["isFeature"] !== undefined){
+    //     resPerPage = 5;
+    // }
     let buildQuery = () => {
         return new APIFeatures(Product.find(), req.query).search().filter()
     }
